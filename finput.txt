@@ -1,0 +1,20 @@
+PROGRAM A12RH;
+BEGIN
+    7:A:=56;
+    B:=90;
+    43:LINK A5,38476;
+    C67(F4,G5,B5);
+    (**)GOTO 43;
+    LINK F4,32;
+    LINK (*  *)G4,2323;
+    ($AA55$)
+    IN (*
+
+    *)38476;
+    OUT (*
+    hhhh****) 2323;
+    RETURN;
+    ;
+
+    (*SHGV**DFKFJHCAG*)
+END.

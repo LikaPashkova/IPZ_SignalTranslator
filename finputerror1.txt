@@ -1,0 +1,6 @@
+PROGRAM A12RH;
+BEGIN
+    7:A:=56;
+    7:B:=90;
+
+END.

@@ -1,0 +1,12 @@
+PROGRAM V3GF;
+BEGIN
+    67:A:=30;
+    C45(K67,V3);
+    V23(G56);
+    GOTO 67;
+    LINK F5,6565;
+    IN 65;
+    OUT 3456;
+    RETURN;
+    ;
+END. GTH56

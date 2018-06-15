@@ -1,0 +1,6 @@
+PROGRAM A12RH;
+BEGIN
+    7:A:=56;
+    43:LINK A5,38476;
+    (**)GOTO 63;
+END.

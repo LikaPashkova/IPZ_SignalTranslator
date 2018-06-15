@@ -1,0 +1,13 @@
+PROGRAM A12RH;
+BEGIN
+    LINK F4,32;
+    LINK (*  *)G4,2323;
+    IN (*
+
+    *)38476;
+    OUT 223;
+    RETURN;
+    ;
+    ($DC343SMDCS$)
+    (*SHGV**DFKFJHCAG*)
+END.
